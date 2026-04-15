@@ -69,7 +69,7 @@ It focuses on understanding customer segments, purchase behavior, revenue driver
 
 Arunima Upreti
 
-# Aspiring Data Scientist | AI Trainer
-# Skilled in Data Analysis, Machine Learning & Visualization                                                                                                                              
+- Aspiring Data Scientist | AI Trainer
+- Skilled in Data Analysis, Machine Learning & Visualization                                                                                                                              
 
 
