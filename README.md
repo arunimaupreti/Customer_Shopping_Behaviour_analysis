@@ -60,10 +60,10 @@ It focuses on understanding customer segments, purchase behavior, revenue driver
 ---
 
 ## 📂 Project Structure  
-├── Customer_Shopping_Behaviour_Analysis.ipynb  # Data analysis (Python)
-├── customer_behavior.sql      # SQL queries for analysis
-├── customer_behaviour.pbix    # Power BI dashboard
-└── README.md
+- ├── customer_Shopping_Behaviour_Analysis.ipynb  # Data analysis (Python)
+- ├──  customer_behavior.sql      # SQL queries for analysis
+- ├── customer_behaviour.pbix    # Power BI dashboard
+- └── README.md
 👩‍💻 Author
 
 Arunima Upreti
