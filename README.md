@@ -1,13 +1,13 @@
-🛍️ Customer Shopping Behaviour Analysis
+## 🛍️ Customer Shopping Behaviour Analysis
 📌 Overview
 
 This project analyzes customer shopping patterns using SQL, Python, and Power BI to extract actionable business insights. It focuses on understanding customer segments, purchase behavior, revenue drivers, and product performance.
 
 🎯 Objective
-#Identify key factors influencing customer purchases
-#Analyze revenue distribution across demographics
-Understand the impact of discounts, subscriptions, and shipping types
-Enable data-driven decision-making for e-commerce businesses
+-Identify key factors influencing customer purchases
+-Analyze revenue distribution across demographics
+-Understand the impact of discounts, subscriptions, and shipping types
+-Enable data-driven decision-making for e-commerce businesses
 
 🛠️ Tech Stack
 SQL (PostgreSQL) – Data querying & transformation
