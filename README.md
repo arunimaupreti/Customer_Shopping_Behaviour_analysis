@@ -67,9 +67,5 @@ It focuses on understanding customer segments, purchase behavior, revenue driver
   
 👩‍💻 Author
 
-Arunima Upreti
-
-- Aspiring Data Scientist | AI Trainer
-- Skilled in Data Analysis, Machine Learning & Visualization                                                                                                                              
-
+Arunima Upreti                                                                                                                             
 
