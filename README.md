@@ -4,10 +4,11 @@
 This project analyzes customer shopping patterns using SQL, Python, and Power BI to extract actionable business insights. It focuses on understanding customer segments, purchase behavior, revenue drivers, and product performance.
 
 🎯 Objective
-Identify key factors influencing customer purchases
-Analyze revenue distribution across demographics
+#Identify key factors influencing customer purchases
+#Analyze revenue distribution across demographics
 Understand the impact of discounts, subscriptions, and shipping types
 Enable data-driven decision-making for e-commerce businesses
+
 🛠️ Tech Stack
 SQL (PostgreSQL) – Data querying & transformation
 Python (Pandas, NumPy) – Data analysis (Jupyter Notebook)
