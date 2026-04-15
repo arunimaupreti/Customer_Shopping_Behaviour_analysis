@@ -64,11 +64,12 @@ It focuses on understanding customer segments, purchase behavior, revenue driver
 - ├──  customer_behavior.sql      # SQL queries for analysis
 - ├── customer_behaviour.pbix    # Power BI dashboard
 - └── README.md
+  
 👩‍💻 Author
 
 Arunima Upreti
 
-Aspiring Data Scientist | AI Trainer
-Skilled in Data Analysis, Machine Learning & Visualization                                                                                                                              
+# Aspiring Data Scientist | AI Trainer
+# Skilled in Data Analysis, Machine Learning & Visualization                                                                                                                              
 
 
