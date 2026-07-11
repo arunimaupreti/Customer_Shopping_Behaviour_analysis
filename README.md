@@ -41,7 +41,9 @@ It focuses on understanding customer segments, purchase behavior, revenue driver
 - Category-wise Revenue Distribution  
 - Customer Segmentation Insights  
 - Daily Purchase Trends  
-- Top Products & High-Value Customers  
+- Top Products & High-Value Customers
+- <img width="1432" height="842" alt="image" src="https://github.com/user-attachments/assets/9e7d3509-f7e5-4e7e-a850-5f12a1847cc5" />
+
 
 ---
 
